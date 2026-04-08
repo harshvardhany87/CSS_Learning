@@ -2,11 +2,13 @@
     background-color: brown; 
     height: 200px;
     width: 200px;
-
+    border: 3px solid  black;
+    padding: 50px;
+    margin: 3px;
 }
 
 #two{
-    background-color: rgb(182, 177, 186);
+    background-color: rgb(84, 83, 86);
     height: 200px;
     width: 200px;
 }
