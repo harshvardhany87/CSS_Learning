@@ -1,0 +1,27 @@
+#one{
+    background-color: beige;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+#two{
+    background-color: brown;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+#Parent{
+    background-color: blanchedalmond;
+    border-style: double;
+    border-radius: 10px;
+    border-width: 20px;
+    padding: 50px;
+}
+
+#Child{
+    background-color: aqua;
+}
