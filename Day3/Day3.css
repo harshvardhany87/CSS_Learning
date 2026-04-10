@@ -17,11 +17,18 @@
 #Parent{
     background-color: blanchedalmond;
     border-style: double;
+    height: 200px;
+    width: 200px;
     border-radius: 10px;
     border-width: 20px;
     padding: 50px;
 }
 
 #Child{
-    background-color: aqua;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: bold;
+    height: 50%;
+    width: 50%;
+
 }
