@@ -5,13 +5,23 @@
 
 .main{
     display: flex;
-    flex-direction: row;
+    flex-direction: row ;
     justify-content: space-between;
     justify-content: space-around;
     justify-content: end;
     justify-content: left;
     justify-content: center;
     
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: self-end;
+    align-items: baseline;
+    align-items: normal;
+
 }
 
 .box{
